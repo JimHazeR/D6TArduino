@@ -1,0 +1,26 @@
+{
+    "name": "D6TArduino",
+    "version": "0.1.1",
+    "description": "To make easier to use a D6T1a",
+    "keywords": "",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/JimHazeR/D6TArduino.git"
+    },
+    "authors":
+    [
+      {
+        "name": "JimHazeR",
+        "email": "haz@vivaldi.net",
+        "url": "https://haz.vivaldi.net"
+      }
+    ],
+    "license": "WTFPL",
+    "homepage": "https://haz.vivaldi.net",
+    "dependencies": {
+     
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
